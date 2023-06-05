@@ -15,3 +15,9 @@ MINA экспрессируется во многих типах тканей. �
 "In this study, we established the functional relevance between MINA53 and DNA replication. We found that knockdown of MINA53 resulted in a decrease of CMG genes expression as well as an upregulation of H3K9me3 at CMG genes promoters." (https://pubmed.ncbi.nlm.nih.gov/30333481/)
 
 <img src="https://github.com/KirillMatirko/hse23_project/blob/main/pics/MINA_domains.png" width="700" height="350"> <img src="https://github.com/KirillMatirko/hse23_project/blob/main/pics/MINA_expression.png" width="700" height="350">
+
+### 3. Таблицы e-value
+
+Ниже приведена таблица с наименьшим e-value для пары протеном-гистон/белок, а также эта же таблица, но с -log_10 (e-value).
+
+<img src="https://github.com/KirillMatirko/hse23_project/blob/main/pics/table_Eval.png" width="700" height="350"> <img src="https://github.com/KirillMatirko/hse23_project/blob/main/pics/table_logEval.png" width="700" height="350">

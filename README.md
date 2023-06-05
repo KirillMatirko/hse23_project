@@ -13,3 +13,5 @@ MINA экспрессируется во многих типах тканей. �
 "We have reported the histone demethylase activity of mdig/MINA. Our biochemical assays shows that immunoprecipitated mdig/MINA from the cells can demethylate H3K9me3 on histone H3 peptide." (https://pubmed.ncbi.nlm.nih.gov/26413213/)
 
 "In this study, we established the functional relevance between MINA53 and DNA replication. We found that knockdown of MINA53 resulted in a decrease of CMG genes expression as well as an upregulation of H3K9me3 at CMG genes promoters." (https://pubmed.ncbi.nlm.nih.gov/30333481/)
+
+<img src="https://github.com/KirillMatirko/hse23_project/blob/main/pics/MINA_domains.png" width="500" height="350">

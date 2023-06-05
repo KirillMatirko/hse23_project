@@ -20,4 +20,4 @@ MINA экспрессируется во многих типах тканей. �
 
 Ниже приведена таблица с наименьшим e-value для пары протеном-гистон/белок, а также эта же таблица, но с -log_10 (e-value).
 
-<img src="https://github.com/KirillMatirko/hse23_project/blob/main/pics/table_Eval.png" width="600" height="250"> <img src="https://github.com/KirillMatirko/hse23_project/blob/main/pics/table_logEval.png" width="600" height="250">
+<img src="https://github.com/KirillMatirko/hse23_project/blob/main/pics/table_Eval.png" width="800" height="250"> <img src="https://github.com/KirillMatirko/hse23_project/blob/main/pics/table_logEval.png" width="800" height="250">

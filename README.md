@@ -2,6 +2,8 @@
 
 1. Описание белка
 
+MINA контролирует пролиферацию и онкогенез глиобластомы и других типов рака через деметилирование H3K9 и контроль клеточного цикла путём активации экспрессии циклинов и циклин-зависмых киназ. Исследования показывают, что сокращение экспрессии MINA способствует замедлению развития глиобластомы, что может найти применение в таргетной терапии.
+
 "Structurally, MINA protein contains a conserved jumonji C (JmjC) domain that belongs to the histone demethylases family. It has been reported that MINA is involved in reducing the trimethylation of histone H3K9 (H3K9me3)." (https://pubmed.ncbi.nlm.nih.gov/27292258/)
 
 "We have reported the histone demethylase activity of mdig/MINA. Our biochemical assays shows that immunoprecipitated mdig/MINA from the cells can demethylate H3K9me3 on histone H3 peptide." (https://pubmed.ncbi.nlm.nih.gov/26413213/)

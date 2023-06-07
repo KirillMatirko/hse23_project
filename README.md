@@ -60,6 +60,8 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
+df=pd.read_csv("protenomes_logEval.csv",index_col=0)
+
 f, ax = plt.subplots(figsize=(20,5))
 ax = sns.heatmap(df)
 ax.set_yticklabels(df.index.values)

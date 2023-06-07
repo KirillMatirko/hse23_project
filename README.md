@@ -50,3 +50,7 @@ MINA экспрессируется во многих типах тканей. �
 Ниже приведена тепловая карта, полученная из таблицы с e-value. Для большей наглядности структуры карты она продублирована для таблицы, в которой максимальное значение -log_10(e-value) не превосходит 100.
 
 <img src="https://github.com/KirillMatirko/hse23_project/blob/main/pics/bioinf_project23_heatmap.png" width="700" height="350"> <img src="https://github.com/KirillMatirko/hse23_project/blob/main/pics/bioinf_project23_heatmap3.png" width="700" height="350">
+
+| <div style="width:290px">property</div> | description                           |
+| --------------------------------------- | ------------------------------------- |
+| `border-bottom-right-radius`            | Defines the shape of the bottom-right |

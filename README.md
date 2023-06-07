@@ -22,8 +22,8 @@ MINA экспрессируется во многих типах тканей. �
 |:-------:|:----------------------:|:---------------:|
 |H2A|<img src="https://github.com/KirillMatirko/hse23_project/blob/main/pics/H2A_alignment.png" width="400" height="200">||
 |H2B|<img src="https://github.com/KirillMatirko/hse23_project/blob/main/pics/H2B_alignment.png" width="400" height="200">||
-|H3|<img src="https://github.com/KirillMatirko/hse23_project/blob/main/pics/H2A_alignment.png" width="300" height="200">||
-|H4|<img src="https://github.com/KirillMatirko/hse23_project/blob/main/pics/H2A_alignment.png" width="300" height="200">||
+|H3|<img src="https://github.com/KirillMatirko/hse23_project/blob/main/pics/H2A_alignment.png" width="300" height="100">||
+|H4|<img src="https://github.com/KirillMatirko/hse23_project/blob/main/pics/H2A_alignment.png" width="300" height="100">||
 
 ### 3. Таблицы e-value
 

@@ -18,7 +18,7 @@ MINA экспрессируется во многих типах тканей. �
 
 ### 2. Выравнивание гистонов
 
-<img src="https://github.com/KirillMatirko/hse23_project/blob/main/pics/H2A_alignment.png" width="300" height="150"> <img src="https://github.com/KirillMatirko/hse23_project/blob/main/pics/H2B_alignment.png" width="700" height="350"><img src="https://github.com/KirillMatirko/hse23_project/blob/main/pics/H3_alignment.png" width="700" height="350"> <img src="https://github.com/KirillMatirko/hse23_project/blob/main/pics/H4_alignment.png" width="700" height="350">
+<img src="https://github.com/KirillMatirko/hse23_project/blob/main/pics/H2A_alignment.png" width="400" height="200"> <img src="https://github.com/KirillMatirko/hse23_project/blob/main/pics/H2B_alignment.png" width="400" height="200"><img src="https://github.com/KirillMatirko/hse23_project/blob/main/pics/H3_alignment.png" width="400" height="200"> <img src="https://github.com/KirillMatirko/hse23_project/blob/main/pics/H4_alignment.png" width="400" height="200">
 
 ### 3. Таблицы e-value
 

@@ -18,6 +18,7 @@ MINA экспрессируется во многих типах тканей. �
 
 ### 2. Выравнивание гистонов
 
+|Гистон|Выравнивание|Комментарий|
 |:-------:|:----------------------:|:---------------:|
 |H2A|<img src="https://github.com/KirillMatirko/hse23_project/blob/main/pics/H2A_alignment.png" width="400" height="200">||
 |H2B|<img src="https://github.com/KirillMatirko/hse23_project/blob/main/pics/H2B_alignment.png" width="400" height="200">||

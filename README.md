@@ -16,6 +16,10 @@ MINA экспрессируется во многих типах тканей. �
 
 <img src="https://github.com/KirillMatirko/hse23_project/blob/main/pics/MINA_domains.png" width="700" height="350"> <img src="https://github.com/KirillMatirko/hse23_project/blob/main/pics/MINA_expression.png" width="700" height="350">
 
+### 2. Выравнивание гистонов
+
+<img src="https://github.com/KirillMatirko/hse23_project/blob/main/pics/H2A_alignment.png" width="700" height="350"> <img src="https://github.com/KirillMatirko/hse23_project/blob/main/pics/H2B_alignment.png" width="700" height="350"><img src="https://github.com/KirillMatirko/hse23_project/blob/main/pics/H3_alignment.png" width="700" height="350"> <img src="https://github.com/KirillMatirko/hse23_project/blob/main/pics/H4_alignment.png" width="700" height="350">
+
 ### 3. Таблицы e-value
 
 Ниже приведена таблица с наименьшим e-value для каждой пары протеом-гистон/белок, а также эта же таблица, но с -log_10 (e-value).

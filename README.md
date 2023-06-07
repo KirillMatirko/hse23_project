@@ -55,7 +55,7 @@ blastp -query MINA.fasta -db /mnt/storage/project_2023/proteomes/human.faa -out 
 
 Используем следующий код для создания тепловой карты:
 
-```python
+```python3
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
